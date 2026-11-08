@@ -11,9 +11,9 @@
     }
   },
   "web": {
-    "version": "1.0.7",
-    "minNativo": "1.0.7",
-    "url": "https://github.com/DaniiCanlob/car-manager-releases/releases/download/v1.0.7/web-1.0.7.zip",
-    "sha256": "4e5bbd74e2a59b71b1d084a01cf7e1925f0bd4f8453c9b4f25081d4800a7eaef"
+    "version": "1.0.8",
+    "url": "https://github.com/DaniiCanlob/car-manager-releases/releases/download/web-1.0.8/web-1.0.8.zip",
+    "sha256": "4e0b8b319c88901dbf4aed4b55eae847acea8fb95727ec11d443c4539bfd661f",
+    "minNativo": "1.0.7"
   }
 }
