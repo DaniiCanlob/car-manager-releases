@@ -1,19 +1,19 @@
 {
   "esquema": 1,
   "nativo": {
-    "version": "1.0.7",
+    "version": "1.0.9",
     "obligatoria": false,
-    "notas": "Primera versión instalable de Car Manager",
+    "notas": "Corrige la barra lateral en celular y la aplicación de actualizaciones en vivo",
     "fecha": "2026-11-08",
     "apk": {
-      "url": "https://github.com/DaniiCanlob/car-manager-releases/releases/download/v1.0.7/car-manager-1.0.7.apk",
-      "sha256": "b31979750f0b4cf5c62a4ca403a2de27f1ead70f275f860cc215ba9ccb2d7c7a"
+      "url": "https://github.com/DaniiCanlob/car-manager-releases/releases/download/v1.0.9/car-manager-1.0.9.apk",
+      "sha256": "237464f45bfbeba2e300f383d74c966e5b4be57c7b328f950b658c2e3b8acaf1"
     }
   },
   "web": {
-    "version": "1.0.8",
-    "url": "https://github.com/DaniiCanlob/car-manager-releases/releases/download/web-1.0.8/web-1.0.8.zip",
-    "sha256": "4e0b8b319c88901dbf4aed4b55eae847acea8fb95727ec11d443c4539bfd661f",
-    "minNativo": "1.0.7"
+    "version": "1.0.9",
+    "minNativo": "1.0.9",
+    "url": "https://github.com/DaniiCanlob/car-manager-releases/releases/download/v1.0.9/web-1.0.9.zip",
+    "sha256": "b2af39048e265e7511aedd4572d40a0655c88da4b806a8f69326113e4ae6316d"
   }
 }
